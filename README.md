@@ -6,7 +6,10 @@
 Программа имеет графический интерфейс, который однозначно отображает игровую ситуацию у обоих игроков.
 
 Руководство пользователя.
-
+![Image 1](https://github.com/vanyakozub/IMG-for-PaperIO/raw/master/1.png)
+![Image 2](https://github.com/vanyakozub/IMG-for-PaperIO/raw/master/2.png)
+![Image 3](https://github.com/vanyakozub/IMG-for-PaperIO/raw/master/3.png)
+![Image 4](https://github.com/vanyakozub/IMG-for-PaperIO/raw/master/4.png)
 
 Игрок заходит на сервер, запускается графический интерфейс, когда
 игрок будет готов начать игру, он нажмет кнопку «Играть». После этого
